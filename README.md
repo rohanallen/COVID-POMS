@@ -1,6 +1,6 @@
 # COVID-POMS
 
-This repository contains the code (POMS_Code.py) to calculate the probobility score of each of the six Profile of Mood States (POMS).
+This repository contains the code (POMS_Code.py) to calculate the probability score of each of the six Profile of Mood States (POMS).
 
 Tweet_ID.txt contains the Twitter IDs of all the Tweets used for the experiment.
 

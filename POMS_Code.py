@@ -9,7 +9,7 @@ from emotion_predictor import EmotionPredictor
 pd.options.display.max_colwidth = 150   
 pd.options.display.width = 200          
 pd.options.display.max_columns = 7      
-#reads the tweets into a dataframe
+#stores the tweets into a dataframe
 df=pd.read_csv('Tweets_Final.csv')
 tweets=df['Tweet Text']
 #instantiating model2 to predict the emotions of tweets according to POMS
